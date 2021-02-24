@@ -1,8 +1,8 @@
 ### :books: Trabalho de Conclusão de Curso da Pós Graduação Unifacef
 
 ### :man: Alunos:
-Alex Felipe barbosa¹
-Danilo Silva Andrade²
+- Alex Felipe barbosa¹
+- Danilo Silva Andrade²
 
 
 :date: Repositório criado em: 20/02/2020
