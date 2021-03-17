@@ -16,4 +16,4 @@
 
 
 ## Resultado da Análise dos Dados
-![](\img\tcc_video.gif)
+![](img/tcc_video.gif)
