@@ -13,3 +13,7 @@
 
 - [:heavy_check_mark:] Código fonte da análise de dados do TCC
 - [:heavy_multiplication_x:] Base de dados de estudo
+
+
+## Resultado da Análise dos Dados
+![](\img\tcc_video.gif)
